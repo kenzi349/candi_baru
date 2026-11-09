@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:pab_dzaky_si5c/models/candi.dart';
+import 'package:Kenzi-PAB1/models/candi.dart';
 
 class DetailScreen extends StatelessWidget {
   final Candi candi;
