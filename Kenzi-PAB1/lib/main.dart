@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:pab_dzaky_si5c/data/candi_data.dart';
-import 'package:pab_dzaky_si5c/screens/detail_screen.dart';
-import 'package:pab_dzaky_si5c/screens/profile_screen.dart';
-import 'package:pab_dzaky_si5c/screens/search_screen.dart';
-import 'package:pab_dzaky_si5c/screens/sign_in_screen.dart';
+import 'package:Kenzi-PAB1/data/candi_data.dart';
+import 'package:Kenzi-PAB1/screens/detail_screen.dart';
+import 'package:Kenzi-PAB1/screens/profile_screen.dart';
+import 'package:Kenzi-PAB1/screens/search_screen.dart';
+import 'package:Kenzi-PAB1/screens/sign_in_screen.dart';
 
 
 void main() {
