@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:pab_dzaky_si5c/models/candi.dart';
+import 'package:Kenzi-PAB1/models/candi.dart';
 
 class DetailScreen extends StatelessWidget {
   final Candi candi;
@@ -63,7 +63,7 @@ class DetailScreen extends StatelessWidget {
                   // Nama candi dan tombol favorit
                   Row(
                     mainAxisAlignment:
-                        MainAxisAlignment.spaceBetween,
+                    MainAxisAlignment.spaceBetween,
                     children: [
                       Expanded(
                         child: Text(
